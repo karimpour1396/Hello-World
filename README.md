@@ -1,2 +1,2 @@
 # Hello-World
-I want to eriter the first program. 
+I want to write the first program. 
